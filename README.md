@@ -7,6 +7,6 @@ Step  1:
 
 Step 2:
 
-<img src="https://user-images.githubusercontent.com/57342758/Screen Shot 2020-08-30 at 3.53.46 PM.png" width="400" height="400">
+<img width="373" alt="Screen Shot 2020-08-30 at 3 53 46 PM" src="https://user-images.githubusercontent.com/57342758/91672051-af217200-eae0-11ea-9100-fca7b8db0a5f.png">
 
 
