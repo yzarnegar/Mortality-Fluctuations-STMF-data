@@ -14,7 +14,7 @@ Step 2:
 #Total number of listings for different sex groups and countries
 
 <img width="860" alt="Screen Shot 2020-08-30 at 4 52 40 PM" src="https://user-images.githubusercontent.com/57342758/91672155-6f0ebf00-eae1-11ea-87b3-16c64f4a95fe.png">
-Maximum number of avalable data is for country NLD (Netherlands) and minimum number of data is available for DEUTNP (Germany).
+Maximum number of avilable data is for country NLD (Netherlands) and minimum number of data is available for DEUTNP (Germany).
 
 #Trend of total death rate along years 1990-2020 for different sex groups
 <img width="1194" alt="Screen Shot 2020-08-30 at 5 08 04 PM" src="https://user-images.githubusercontent.com/57342758/91672986-8c925780-eae6-11ea-8c04-760ac4d6c278.png">
