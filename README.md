@@ -18,7 +18,7 @@ Maximum number of avilable data is for country NLD (Netherlands) and minimum num
 
 #Trend of total death rate along years 1990-2020 for different sex groups
 <img width="1194" alt="Screen Shot 2020-08-30 at 5 08 04 PM" src="https://user-images.githubusercontent.com/57342758/91672986-8c925780-eae6-11ea-8c04-760ac4d6c278.png">
-There are a lot of fluctiations for death rate. It seems that total death rate has slightly decreased at some points and again increased for different Sex groups and in general it has been higher for males than females. 
+There are a lot of fluctiations for death rate. It seems that total death rate has decreased at some points and again increased for different Sex groups and in general it has been higher for males than females. 
 
 #Trend of total death rate along years 1990-2020 for different countries
 <img width="1314" alt="Screen Shot 2020-08-30 at 5 32 03 PM" src="https://user-images.githubusercontent.com/57342758/91673029-c8c5b800-eae6-11ea-8086-66017ac28dc4.png">
