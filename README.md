@@ -42,7 +42,7 @@ Following, there are some statistics for mortality rate for USA for different ye
 <img width="433" alt="Screen Shot 2020-08-30 at 6 26 15 PM" src="https://user-images.githubusercontent.com/57342758/91674672-843e1a80-eaee-11ea-9c76-87556b621a08.png">
 <img width="1224" alt="Screen Shot 2020-08-30 at 6 28 29 PM" src="https://user-images.githubusercontent.com/57342758/91675852-b3568b00-eaf2-11ea-9b9f-068737d2a9b6.png">
 
-Now considering the initial insights from data and some seen patterns let do some analysis to see if the effect of the time of the year (Weeks) and sex has statistically significant relation with mortality rate. Based on the trend of death along years, it is expected to see higher death rate toward the end of the 2020 and beggining of 2021. Studies that obtain multiple measurements alomg time such as time series data lend themselves well to mixed model analyses.
+Now considering the initial insights from data and some seen patterns lets do some analysis to see if the effect of the time of the year (Weeks) and sex has statistically significant relation with mortality rate. Based on the trend of death along years, it is expected to see higher death rate toward the end of the 2020 and beggining of 2021. Studies that obtain multiple measurements alomg time such as time series data lend themselves well to mixed model analyses.
 
 
 In order to fit best random effect model, three hypothetical random effects structures are being considered and anova function is used to find the best fitting random effects structure. Random effect models are as follows:
@@ -53,7 +53,7 @@ nullmodel3 <- lmer( RTotal ~ 1 + (1 + factor(Sex)+Week |CountryCode ), data = d5
 
 <img width="493" alt="Screen Shot 2020-08-31 at 7 43 02 AM" src="https://user-images.githubusercontent.com/57342758/91732861-ad49c400-eb5d-11ea-891d-355d446e4d5b.png">
 
-Considering the result from  anova to compare the models, models 2 and 3 are statsitically significant. However, model 3 is chosen as it has smaller AIC. 
+Considering the result from  anova, models 2 and 3 are statsitically significant. However, model 3 is chosen as it has smaller AIC. 
 Potential fixed effects now can be added to the model.  Three following model will be compared using anova function:
 
 m1=lmer( RTotal ~ factor(Sex) + (1 + factor(Sex) |CountryCode ), data = d6, REML=FALSE)
@@ -76,7 +76,7 @@ Now lets do some mortality rate predictions for remaining months od 2020 for USA
 
 <img width="1065" alt="Screen Shot 2020-08-30 at 11 38 27 PM" src="https://user-images.githubusercontent.com/57342758/91752312-096f1100-eb7b-11ea-8716-94bc439d1c5c.png">
 
-Since the 2020 mortality patterin has been different for 2020 compared with previous years so although we expect to see higher mortality rate during the last weeks of the year as before due to flu season but based on model predictions there is not going to be much difference from now which perhaps is underestimated due to lack of enough data for more accurate prediction.
+Since the 2020 mortality patterin has been different for 2020 compared with previous years so although we expect to see higher mortality rate during the last weeks of the year as before due to flu season but based on model predictions there is not going to be much different from now which perhaps is underestimated due to lack of enough data for more accurate prediction. 
 
 <img width="1090" alt="Screen Shot 2020-08-31 at 11 16 20 AM" src="https://user-images.githubusercontent.com/57342758/91752608-708cc580-eb7b-11ea-80f1-be4c9d0c1b02.png">
 
