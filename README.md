@@ -62,7 +62,11 @@ m3=lmer( RTotal ~ factor(Sex)* Week + (1 + factor(Sex)+Week |CountryCode ), data
 
 <img width="495" alt="Screen Shot 2020-08-31 at 7 51 20 AM" src="https://user-images.githubusercontent.com/57342758/91733762-d7e84c80-eb5e-11ea-9b0c-672acafdcfd3.png">
 
-Considering the anova results model 2 is the best fit.
+Considering the anova results model 2 is the best fit:
+<img width="513" alt="Screen Shot 2020-08-31 at 8 08 41 AM" src="https://user-images.githubusercontent.com/57342758/91735530-4a5a2c00-eb61-11ea-909b-f988d381b7f2.png">
+
+
+
 
 
 
