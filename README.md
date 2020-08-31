@@ -37,7 +37,7 @@ Now lets just focus on USA data. Considering the following plots, death rate alo
 <img width="1323" alt="Screen Shot 2020-08-30 at 6 03 14 PM" src="https://user-images.githubusercontent.com/57342758/91674374-41c80e00-eaed-11ea-9968-8ce4d2dd2ef1.png">
 <img width="1325" alt="Screen Shot 2020-08-30 at 6 04 12 PM" src="https://user-images.githubusercontent.com/57342758/91674379-468cc200-eaed-11ea-8446-7c6f5fe6c173.png">
 
-Following, there are some statistics for mortality rate for USA for different years and sex groups. The death rate has increased slightly but higher for males and then there is a jump for 2020 due to Covid19.
+Following, there are some statistics for mortality rate for USA for different years and sex groups. The average death rate has increased slightly but higher for males and then there is a jump for 2020 due to Covid19.
 
 <img width="433" alt="Screen Shot 2020-08-30 at 6 26 15 PM" src="https://user-images.githubusercontent.com/57342758/91674672-843e1a80-eaee-11ea-9c76-87556b621a08.png">
 <img width="1224" alt="Screen Shot 2020-08-30 at 6 28 29 PM" src="https://user-images.githubusercontent.com/57342758/91675852-b3568b00-eaf2-11ea-9b9f-068737d2a9b6.png">
