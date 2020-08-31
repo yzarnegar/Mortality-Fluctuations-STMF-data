@@ -42,7 +42,7 @@ Following, there are some statistics for mortality rate for USA for different ye
 <img width="433" alt="Screen Shot 2020-08-30 at 6 26 15 PM" src="https://user-images.githubusercontent.com/57342758/91674672-843e1a80-eaee-11ea-9c76-87556b621a08.png">
 <img width="1224" alt="Screen Shot 2020-08-30 at 6 28 29 PM" src="https://user-images.githubusercontent.com/57342758/91675852-b3568b00-eaf2-11ea-9b9f-068737d2a9b6.png">
 
-Now considering the initial insights from data and some seen paterns let do some analysis to see if the effect of the time of the year (Weeks) and sex has statistically significant relation with mortality rate. Based on the trend of death along years, it is expected to see higher death rate toward the end of the 2020 and beggining of 2021. Studies that obtain multiple measurements alomg time such as time series data lend themselves well to mixed model analyses.
+Now considering the initial insights from data and some seen patterns let do some analysis to see if the effect of the time of the year (Weeks) and sex has statistically significant relation with mortality rate. Based on the trend of death along years, it is expected to see higher death rate toward the end of the 2020 and beggining of 2021. Studies that obtain multiple measurements alomg time such as time series data lend themselves well to mixed model analyses.
 
 
 In order to fit best random effect model, three hypothetical random effects structures are being considered and anova function is used to find the best fitting random effects structure. Random effect models are as follows:
