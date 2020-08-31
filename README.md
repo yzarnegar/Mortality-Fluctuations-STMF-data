@@ -25,7 +25,7 @@ There are a lot of fluctiations for death rate. It seems that total death rate h
 Total death rate has decreased for some contries and remained unchanged or increased for some. Now lets take a look at the mortality rate trend for age group 15-64 for years 2000-2020 and differet sex groups as data is not available for many countries before 2000 .
 <img width="1322" alt="Screen Shot 2020-08-30 at 5 49 51 PM" src="https://user-images.githubusercontent.com/57342758/91673504-4094e200-eae9-11ea-8f39-c02e3845170e.png">
 
-It can be seen that death rate for age group 15-64 has been declined since 2000 but somehow slightly become higher for 2020 which could be because of Covid19.
+It can be seen that death rate for age group 15-64 has been declined since 2000 but became higher for 2020 which could be because of Covid19.
 Lets take a look at just year 2020 to see how is death tend for this year.
 <img width="1321" alt="Screen Shot 2020-08-30 at 5 49 12 PM" src="https://user-images.githubusercontent.com/57342758/91673512-4be80d80-eae9-11ea-90f7-1d8670a08ae0.png">
 
