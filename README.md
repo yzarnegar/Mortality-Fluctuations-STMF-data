@@ -29,7 +29,16 @@ Again it can be seen that death rate for age group 15-64 has been declined since
 Lets take a look at just year 2020 to see how is death tend for this year.
 <img width="1321" alt="Screen Shot 2020-08-30 at 5 49 12 PM" src="https://user-images.githubusercontent.com/57342758/91673512-4be80d80-eae9-11ea-90f7-1d8670a08ae0.png">
 
-As far as data is available, theres has beem multiple mortality rate flactuations for most of the countries. For USA it has increased during the spring and decresed after that. Fpr countries such as Norway, Nethurland, Swiserland and Poland the death rate has been lower compared with other countries since the beggining of the pandemic for  age group 15-64. However for countries such as USA and Italy the death rate has been higher for man compared with females.
+As far as data is available, theres has beem multiple mortality rate flactuations for most of the countries. For USA it has increased during the spring and decresed after that. Fpr countries such as Norway, Nethurland, Swiserland and Poland the death rate has been lower compared with other countries since the beggining of the pandemic for  age group 15-64. However for countries such as USA and Italy the death rate has been higher for man compared with females. Similar pattern can be seen for age group 65-74 in following plot.
+<img width="1323" alt="Screen Shot 2020-08-30 at 6 01 36 PM" src="https://user-images.githubusercontent.com/57342758/91673838-e432c200-eaea-11ea-9281-de92ce0f8a26.png">
+
+Now lets just focus on USA data. Considering the flowwing plots, death rate along the years has been higher for males compared with females and it has been lower during the summer time and increases toward the winter as perhapse could be because of the Flu season. For 2020, there was a jump in death rate due to Covid19 during the spring and then it has lowered down.
+
+
+
+<img width="1323" alt="Screen Shot 2020-08-30 at 6 03 14 PM" src="https://user-images.githubusercontent.com/57342758/91674374-41c80e00-eaed-11ea-9968-8ce4d2dd2ef1.png">
+<img width="1325" alt="Screen Shot 2020-08-30 at 6 04 12 PM" src="https://user-images.githubusercontent.com/57342758/91674379-468cc200-eaed-11ea-8446-7c6f5fe6c173.png">
+
 
 
 
