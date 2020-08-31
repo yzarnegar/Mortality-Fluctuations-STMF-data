@@ -29,7 +29,7 @@ Again it can be seen that death rate for age group 15-64 has been declined since
 Lets take a look at just year 2020 to see how is death tend for this year.
 <img width="1321" alt="Screen Shot 2020-08-30 at 5 49 12 PM" src="https://user-images.githubusercontent.com/57342758/91673512-4be80d80-eae9-11ea-90f7-1d8670a08ae0.png">
 
-
+As far as data is available, theres has beem multiple mortality rate flactuations for most of the countries. For USA it has increased during the spring and decresed after that. Fpr countries such as Norway, Nethurland, Swiserland and Poland the death rate has been lower compared with other countries since the beggining of the pandemic for  age group 15-64. However for countries such as USA and Italy the death rate has been higher for man compared with females.
 
 
 
