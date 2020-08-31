@@ -51,11 +51,19 @@ nullmodel1 <- lmer( RTotal ~ 1 + (1|CountryCode ), data = d5, REML=FALSE)
 nullmodel2 <- lmer( RTotal ~ 1 + (1 + factor(Sex) |CountryCode ), data = d5, REML=FALSE)
 nullmodel3 <- lmer( RTotal ~ 1 + (1 + factor(Sex)+Week |CountryCode ), data = d5, REML=FALSE)
 
-<img width="496" alt="Screen Shot 2020-08-30 at 7 18 18 PM" src="https://user-images.githubusercontent.com/57342758/91676722-9d969500-eaf5-11ea-8e2f-8afb6d9b8806.png">
+<img width="494" alt="Screen Shot 2020-08-30 at 7 33 36 PM" src="https://user-images.githubusercontent.com/57342758/91677496-bdc75380-eaf7-11ea-90cc-e01df5a45ec7.png">
 
-Considering the result from using anova to compare the models, model 3 is chosen as it has smaller AIC. 
+Considering the result from using anova to compare the models, models 2 and 3 are statsitically significant. However, model 3 is chosen as it has smaller AIC. 
+Potential fixed effects now can be added to the model. Following three model will be compared using anova function:
 
+m1=lmer( RTotal ~ factor(Sex) + (1 + factor(Sex) |CountryCode ), data = d6, REML=FALSE)
+m2=lmer( RTotal ~ factor(Sex)+ Week + (1 + factor(Sex)+ Week |CountryCode ), data = d6, REML=FALSE)
+m3=lmer( RTotal ~ factor(Sex)* Week + (1 + factor(Sex)+Week |CountryCode ), data = d6, REML=FALSE)
 
+<img width="485" alt="Screen Shot 2020-08-30 at 7 31 58 PM" src="https://user-images.githubusercontent.com/57342758/91677473-a4bea280-eaf7-11ea-9472-51a62675427f.png">
+-11ea-8e2f-8afb6d9b8806.png">
+
+Considering the anova results model 2 is the best fit.
 
 
 
