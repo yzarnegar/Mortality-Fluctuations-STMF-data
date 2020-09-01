@@ -71,7 +71,7 @@ There is significant difference between males and females in terms of mortality 
 
 <img width="515" alt="Screen Shot 2020-08-31 at 10 52 26 AM" src="https://user-images.githubusercontent.com/57342758/91751522-bfd1f680-eb79-11ea-8d33-418da4eca07b.png">
 
-This makes sence as elderly citizen are more valunerable to disease such as flu and there will be more deaths during the flu season.
+This makes sence as elderly citizens are more valunerable to disease such as flu and there will be more deaths during the flu season.
 Now lets do some mortality rate predictions for remaining months od 2020 for USA.
 
 <img width="1065" alt="Screen Shot 2020-08-30 at 11 38 27 PM" src="https://user-images.githubusercontent.com/57342758/91752312-096f1100-eb7b-11ea-8716-94bc439d1c5c.png">
