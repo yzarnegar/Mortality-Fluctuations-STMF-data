@@ -76,7 +76,7 @@ Now lets do some mortality rate predictions for remaining months od 2020 for USA
 
 <img width="1065" alt="Screen Shot 2020-08-30 at 11 38 27 PM" src="https://user-images.githubusercontent.com/57342758/91752312-096f1100-eb7b-11ea-8716-94bc439d1c5c.png">
 
-Since the 2020 mortality patterin has been different for 2020 compared with previous years so although we expect to see higher mortality rate during the last weeks of the year as before due to flu season but based on model predictions there is not going to be much different from now which perhaps is underestimated due to lack of enough data for more accurate prediction. 
+Since the 2020 mortality pattern has been different for 2020 compared with previous years so although we expect to see higher mortality rate during the last weeks of the year as before due to flu season but based on model predictions there is not going to be much different from now which perhaps is underestimated due to lack of enough data for more accurate prediction. 
 
 <img width="1090" alt="Screen Shot 2020-08-31 at 11 16 20 AM" src="https://user-images.githubusercontent.com/57342758/91752608-708cc580-eb7b-11ea-80f1-be4c9d0c1b02.png">
 
