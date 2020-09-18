@@ -176,7 +176,7 @@ summaryTable<- function(data=NULL, mvar, gvars=NULL, na.rm=FALSE,
 
 ##########Data anlysis considering all the countries
 #####################################################
-library (lmerTest) # Mixed model package by Douglas Bates, comes w/ pvalues! 
+library (lmerTest) # Mixed model package
 library (texreg) #Helps us make tables of the mixed models
 library (afex) # Easy ANOVA package to compare model fits
 library (plyr) # Data manipulator package
